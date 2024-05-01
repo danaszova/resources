@@ -1,4 +1,4 @@
-# resources
+# Resources
 Internet Resources to help with building project prototypes
 
 ## Free Assets, Images and Graphics
