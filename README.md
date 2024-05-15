@@ -19,9 +19,10 @@ Internet Resources to help with building project prototypes
 
 ## Collaboration
 
-https://excalidraw.com/
+[excalidraw]([https://clerk.com](https://excalidraw.com/)
 
-https://bayanihan.ailabs.studio
+
+[Bayanihan](https://bayanihan.ailabs.studio)
 
 
 ## Databases
@@ -40,9 +41,11 @@ Drizzle
 
 ## Mobile Support Tools for PWA's
 
-https://capacitorjs.com/ 
 
-https://cordova.apache.org/ 
+[Capacitor](https://capacitorjs.com)
+
+[Cordova](https://cordova.apache.org/)
+
 
 
 
