@@ -12,9 +12,9 @@ Internet Resources to help with building project prototypes
 
 ## Authentication
 
-[Log To](https://logto.io)
+[Log To](https://logto.io/)
 
-[Clerk](https://clerk.com)
+[Clerk](https://clerk.com/)
 
 
 ## Collaboration
