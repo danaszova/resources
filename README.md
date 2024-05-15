@@ -45,5 +45,9 @@ Prisma
 
 Drizzle
 
+https://capacitorjs.com/ 
+
+https://cordova.apache.org/ 
+
 
 
