@@ -13,7 +13,7 @@ https://realfavicongenerator.net/
 ## Authentication
 
 
- https://logto.io/en/pricing
+https://logto.io/en/pricing
 
 https://clerk.com
 
@@ -34,7 +34,7 @@ Convex
 
 ## Object Relational Mapping services - ORMS
 
-Prisma
+[Prisma](https://www.prisma.io/)
 
 Drizzle
 
