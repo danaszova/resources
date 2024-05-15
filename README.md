@@ -3,11 +3,11 @@ Internet Resources to help with building project prototypes
 
 ## Free Assets, Images and Graphics
 
-https://undraw.co
+[Undraw](https://undraw.co/)
 
-https://logoipsum.com/
+[LogoIpsum](https://logoipsum.com/)
 
-https://realfavicongenerator.net/
+[Favicon Generator](https://realfavicongenerator.net/)
 
 
 ## Authentication
