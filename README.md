@@ -41,10 +41,6 @@ Drizzle
 
 ## Mobile Support Tools for PWA's
 
-Prisma
-
-Drizzle
-
 https://capacitorjs.com/ 
 
 https://cordova.apache.org/ 
