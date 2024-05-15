@@ -15,7 +15,7 @@ https://realfavicongenerator.net/
 
  https://logto.io/en/pricing
 
-Clerk.com
+https://clerk.com
 
 
 ## Collaboration
