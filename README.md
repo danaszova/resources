@@ -16,12 +16,11 @@ Internet Resources to help with building project prototypes
 
 [Clerk](https://clerk.com/)
 
-[Clerk](https://clerk.com/)
 
 
 ## Collaboration
 
-[excalidraw]([https://clerk.com](https://excalidraw.com/)
+[excalidraw](https://excalidraw.com/)
 
 
 [Bayanihan](https://bayanihan.ailabs.studio)
