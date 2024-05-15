@@ -32,7 +32,7 @@ Planet Scale
 Convex
 
 
-## Object Relational Mapping serevices - ORMS
+## Object Relational Mapping services - ORMS
 
 Prisma
 
