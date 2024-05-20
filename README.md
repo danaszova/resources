@@ -7,11 +7,9 @@ Internet Resources to help with building project prototypes
 
 [LogoIpsum](https://logoipsum.com/)
 
-[Lorem Picsum](https://realfavicongenerator.net/)
+[Favicon Generator](https://realfavicongenerator.net/)
 
-
-
-[Favicon Generator](https://picsum.photos/)
+[Lorem Picsum](https://picsum.photos/)
 
 
 ## Authentication
